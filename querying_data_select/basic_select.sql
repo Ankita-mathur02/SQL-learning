@@ -7,7 +7,6 @@ FROM customers
 SELECT *
 FROM orders
 
-
 -- Retrieve each customer's name, country, and score.
 SELECT 
     first_name,
