@@ -1,4 +1,3 @@
--- filtering_where.sql
 -- Retrieve customers with a score not equal to 0
 
 SELECT *
