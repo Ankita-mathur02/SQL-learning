@@ -1,4 +1,5 @@
 -- Retrieve All Customer Data
+
 SELECT *
 FROM customers
 
@@ -6,9 +7,6 @@ FROM customers
 SELECT *
 FROM orders
 
-/* ==============================================================================
-   SELECT FEW COLUMNS
-=============================================================================== */
 
 -- Retrieve each customer's name, country, and score.
 SELECT 
