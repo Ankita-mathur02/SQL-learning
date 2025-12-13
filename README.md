@@ -1,6 +1,6 @@
-# The Complete SQL Bootcamp
+
 This repository documents my **learning journey and hands-on practice** from the Udemy course  
-**“The Complete SQL Bootcamp (30 Hours): Go from Zero to Hero”** by **Baraa Khatib Salkini**.
+**“The Complete SQL Bootcamp by **Baraa Khatib Salkini**.
 
 I am currently **transitioning into Data Analysis** and using this course to build a strong SQL foundation through structured learning and practical exercises.
 
