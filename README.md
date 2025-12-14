@@ -14,7 +14,7 @@ I am currently **transitioning into Data Analysis** and using this course to bui
 
 ---
 ## SQL Roadmap 
-   ![SQL_Roadmap_Visual](SQLRoadmapVisual.png)
+   ![SQL_Roadmap](SQLROADMAP.png)
    
 ## 📘 Beginner SQL Topics (Completed)
 
