@@ -13,7 +13,9 @@ I am currently **transitioning into Data Analysis** and using this course to bui
 - 🧱 Building a strong base before moving to advanced analytics & projects
 
 ---
-
+## SQL Roadmap 
+   ![SQL_Roadmap_Visual](SQLRoadmapVisual.png)
+   
 ## 📘 Beginner SQL Topics (Completed)
 
 At the beginner level, I have learned how to **query and explore data** using SQL:
